@@ -1,3 +1,4 @@
+
 INSERT INTO hilight 
 SELECT DISTINCT stars.starid 
 FROM stars, planets, moons 
